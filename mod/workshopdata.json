@@ -7,10 +7,11 @@
   "Requirements": "",
   "RequirementNames": "",
   "Authors": "BensoneWhite",
-  "Visibility": "Unlisted",
+  "Visibility": "Public",
   "Tags": [
     "Game Mechanics"
   ],
   "WorkshopID": 2976484045,
-  "UploadFilesOnly": true
+  "UploadFilesOnly": true,
+  "UploadThumbnail": false
 }
