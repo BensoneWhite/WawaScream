@@ -1,0 +1,3 @@
+[ADD]scream/rangeFac=2 : scream/vol=0.6/pitch=1
+[ADD]boing/rangeFac=2 : boing/vol=0.6/pitch=1
+[ADD]brummm/rangeFac=2 : brummm/vol=0.6/pitch=1
