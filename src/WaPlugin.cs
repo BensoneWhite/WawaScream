@@ -6,7 +6,7 @@ internal class WaPlugin : BaseUnityPlugin
     public const string MOD_ID = "wawascream";
     public const string AUTHORS = "BensoneWhite";
     public const string MOD_NAME = "WawaScream";
-    public const string VERSION = "1.3";
+    public const string VERSION = "1.3.01";
 
     public bool IsInit;
 
